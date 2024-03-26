@@ -1,4 +1,4 @@
-Hello! Welcome to the repo for the HOBO data and python scripting related to research done in the HJA Andrews Experimental Forest by Todd R. Lookingbill, Jack DuPuy, Ellery Jacobs, Matteo Gonzalez, and Tihomir S. Kostadinov completed in 2022.
+Hello! Welcome to the repo for the original data and python scripting related to research done in the HJA Andrews Experimental Forest by Todd R. Lookingbill, Jack DuPuy, Ellery Jacobs, Matteo Gonzalez, and Tihomir S. Kostadinov completed in 2022. 
 
 Important things to keep in mind:
 1) For any data-related questions, please feel free to reach out to Jack DuPuy or Todd Lookingbill.
