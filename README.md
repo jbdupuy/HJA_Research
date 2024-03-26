@@ -4,6 +4,6 @@ Land 2024, 13, x. https://doi.org/10.3390/xxxxx
 
 
 Important things to keep in mind:
-1) For any data-related questions, please feel free to reach out to Jack DuPuy or Todd Lookingbill.
+1) For any data-related questions, please feel free to reach out to Jack DuPuy (jack.dupuy@richmond.edu) or Todd Lookingbill (tlooking@richmond.edu).
 2) A masterscript is in development such that any HOBO data can be analyzed using the same methods we did regardless of start time/season.
 3) For now, I've included an example folder where you can see results for all 2022 HOBOs with a 00:36 start time, examine the scripts that created those results, and run the scripts yourself on 3 example HOBO csv files.
