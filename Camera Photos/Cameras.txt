@@ -1,1 +1,2 @@
-Camera Data will be available soon.
+The raw camera data can be found here:
+https://www.dropbox.com/sh/zbxa8rvuxb80u86/AADiVRqv99QhgBUEi58xg2eNa?dl=0
