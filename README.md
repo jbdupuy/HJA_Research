@@ -5,5 +5,7 @@ Land 2024, 13(4), 424. https://doi.org/10.3390/land13040424
 
 Important things to keep in mind:
 1) For any data-related questions, please feel free to reach out to Jack DuPuy (jack.dupuy@richmond.edu) or Todd Lookingbill (tlooking@richmond.edu).
-2) A masterscript is in development such that any HOBO data can be analyzed using the same methods we did regardless of start time/season.
-3) For now, I've included an example folder where you can see results for all 2022 HOBOs with a 00:36 start time, examine the scripts that created those results, and run the scripts yourself on 3 example HOBO csv files.
+2) The "HJA Hobo Mastersheet" contains information about each HOBO including coordinates, seedling type, and whether it was used for camera validation. 
+3) A masterscript has been developed to reproduce our data for any HOBO csv file for any year. It can also be used to replicate our data analysis methods on external  HOBO data.
+4) The script is called Snow_Statistics.py, and it can be found in the "Masterscript and Example Usage" folder. Sample data from 2022 has been provided along with the expected output if you run the script in that folder on your machine. Another output file demonstrates what it will do if ran inside the 2013 folder. 
+5) To use the script yourself: place it inside the folder with the csvs that you want to analyze, navigate to that folder using your terminal, then type "python Snow_Statistics.py" and it should run. Thanks for visiting, feel free to reach out with questions!
